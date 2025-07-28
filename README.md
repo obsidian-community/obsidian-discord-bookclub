@@ -1,2 +1,3 @@
-# obsidian-discord-bookclub
-This is the official repository for the Obsidian Member Community's Discord #Bookclub
+#Bookclub, the repository of the Obsidian Member's Group bookclub
+
+TBD
