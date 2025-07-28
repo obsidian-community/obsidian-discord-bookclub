@@ -1,0 +1,6 @@
+# Ignore Ide's
+.vscode
+.idea
+
+# Ignore Obsidian
+.obsidian
